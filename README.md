@@ -1,3 +1,7 @@
+# Tic-Tac-Toe React.js Tutorial
+
+This is a [tutorial found on React's site](https://reactjs.org/tutorial/tutorial.html).
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
