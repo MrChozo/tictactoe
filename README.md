@@ -1,4 +1,4 @@
-# Tic-Tac-Toe React.js Tutorial
+# Tic-tac-toe React.js Tutorial
 
 This is a [tutorial found on React's site](https://reactjs.org/tutorial/tutorial.html).
 
